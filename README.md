@@ -1,5 +1,12 @@
-# Desafio sobre Git/GitHub da DIO
+# Desafio Git/GitHub da DIO GFT
 Repositório criado para o Desafio de projeto
 
 ## Links Úteis
-[Sinstaxe basica Markdown](https://www.markdownguide.org/)
+[DIO](https://www.dio.me/en)
+
+[GFT](https://www.gft.com/br/pt)
+
+[Sintaxe básica Markdown](https://www.markdownguide.org/)
+
+
+
