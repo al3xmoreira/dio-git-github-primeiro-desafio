@@ -1,0 +1,4 @@
+git add - Adicionar
+git status - exibe status do git 
+git commit - prepara os arquivos para serem enviados ao Git Hub
+git clone - clona repositório do Git Hub
